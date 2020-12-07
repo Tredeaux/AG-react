@@ -1,0 +1,41 @@
+.navbar {
+    background-color: aqua;
+    height:80px;
+    display:flex;
+    align-items: center;
+}
+
+.menu-bars {
+    margin-left: 2rem;
+    font-size: 2rem;
+    background:none;
+}
+
+.nav-menu {
+    background-color: navy;
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    top: 0;
+}
+
+.nav-text a{
+    display: flex;
+    color: white;
+    text-decoration:none;
+}
+
+.card {
+    /* border:2px solid navy;
+    width:800px; */
+    text-align: center;
+}
+
+.main {
+    border: 1px solid red;
+    display: flex;
+}
+
+.link {
+    text-decoration:none;
+}

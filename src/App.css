@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.dashboard, .Management {
+  display:flex;
+  height:90vh;
+  font-size: 3rem;
+}
